@@ -1,6 +1,13 @@
 # Online-Shopping-Site
 Online Shopping Site in asp.net 
+<BR/>
 <br/>
+PROGRAMMING LANGUAGE - C#.NET
+<BR/>
+DATABASE             - MSSQLSERVER
+<BR/>
+DEVELOPER - KESHAV KR JHA  [keshavjha9217@gmail.com]
+<BR/>
 <br/>
 Online Shopping Site is  an e-commerce project.
 <br/>
