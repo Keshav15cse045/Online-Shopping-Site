@@ -1,5 +1,10 @@
 # Online-Shopping-Site
 <BR/>
+PROGRAMMING LANGUAGE - C#.NET
+<BR/>
+DATABASE             - MSSQLSERVER
+<BR/>
+DEVELOPER - KESHAV KR JHA  [keshavjha9217@gmail.com]
 <br/>
 
 <BR/>
