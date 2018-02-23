@@ -1,0 +1,9 @@
+C:\Users\KESHAV KR JHA\documents\visual studio 2015\Projects\WebApplication14\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\KESHAV KR JHA\documents\visual studio 2015\Projects\WebApplication14\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\KESHAV KR JHA\documents\visual studio 2015\Projects\WebApplication14\BusinessLogic\bin\Debug\BusinessObject.dll
+C:\Users\KESHAV KR JHA\documents\visual studio 2015\Projects\WebApplication14\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\KESHAV KR JHA\documents\visual studio 2015\Projects\WebApplication14\BusinessLogic\bin\Debug\BusinessObject.pdb
+C:\Users\KESHAV KR JHA\documents\visual studio 2015\Projects\WebApplication14\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\KESHAV KR JHA\documents\visual studio 2015\Projects\WebApplication14\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\KESHAV KR JHA\documents\visual studio 2015\Projects\WebApplication14\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\KESHAV KR JHA\documents\visual studio 2015\Projects\WebApplication14\BusinessLogic\obj\Debug\BusinessLogic.pdb

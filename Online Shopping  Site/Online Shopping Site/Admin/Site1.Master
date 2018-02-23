@@ -1,0 +1,74 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication14.Admin.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+   <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            border: 2px solid #0099FF;
+        }
+        .auto-style2 {
+            height: 23px;
+        }
+        .auto-style3 {
+            width: 105px;
+            height: 85px;
+        }
+        .auto-style5 {
+           height: 23px;
+           width: 104px;
+       }
+       .auto-style6 {
+           width: 104px;
+       }
+       .auto-style7 {
+           margin-left: 0px;
+       }
+       .auto-style8 {
+           width: 25px;
+           height: 23px;
+       }
+       </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table class="auto-style1" style="height:100%;"">
+            <tr style=" background: linear-gradient(#CCFF33,white);">
+                <td colspan="3" class="auto-style6" style="background: linear-gradient(chartreuse,white);" ><h1 style="font-family:Viner Hand ITC;">Pacific Shopping</h1></td>
+
+            </tr>
+            <tr>
+             <!-- 
+               <td class="auto-style8" >
+               <a href="WebForm1.aspx" style="display:block;">products</a><a href="WebForm3.aspx" style="display:block;">categories</a>&nbsp;<a href="http://www.geeksforgeeks.com" style="display:block;" class="auto-style7">geeksforgeeks</a>
+                 </td>
+                -->
+                <td>             
+                      <table >
+                   <tr>
+                       <td>
+                      
+                       <a href="addnew_product.aspx" style="display:block;">add products</a></td><td><a href="addnew_category.aspx" style="display:block;">add categories</a></td> &nbsp;<td><a href="allcategories.aspx" style="display:block;" class="auto-style7">AllCategories</a>
+                   </td>&nbsp; <td><a href="allproducts.aspx" style="display:block;" class="auto-style7">AllProducts</a></td>&nbsp;
+                       <td><a href="orderdetails.aspx" style="display:block;" class="auto-style7">OrderDetails</a></td>
+                  </tr>
+                </table>
+                    </td>
+ 
+                    </tr>
+            <tr >
+                <td class="auto-style6"  colspan="3">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align:right; background: linear-gradient(#CCFF33,white); color:blue;" colspan="3" class="auto-style2" > Admin Section</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
