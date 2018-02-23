@@ -1,12 +1,7 @@
 # Online-Shopping-Site
-Online Shopping Site in asp.net 
 <BR/>
 <br/>
-PROGRAMMING LANGUAGE - C#.NET
-<BR/>
-DATABASE             - MSSQLSERVER
-<BR/>
-DEVELOPER - KESHAV KR JHA  [keshavjha9217@gmail.com]
+
 <BR/>
 <br/>
 Online Shopping Site is  an e-commerce project.
@@ -36,12 +31,10 @@ Furtur,customers can check their shipment status.
 <br/>
 SHOPPING SITE HOME PAGE
 <BR/>
-
 <img src="https://user-images.githubusercontent.com/32098417/36615523-8d71cb04-1906-11e8-8c23-d19e6c59cc75.JPG"  width="700"/>
 <BR/>
 <BR/>
 ADD PRODUCTS TO CART AND PLACE ORDER
-
 <BR/>
 <IMG SRC="https://user-images.githubusercontent.com/32098417/36615634-fa070cc0-1906-11e8-9e27-bfce6eca4968.JPG" WIDTH="700"/>
 <BR/>
